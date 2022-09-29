@@ -1,0 +1,28 @@
+body{
+    margin: 0 auto;
+    background-color: #dfff7f;
+}
+
+header, footer {
+    background-color: #ee90ec;
+    padding: 2%;
+    margin: 2%;
+}
+
+marquee{
+    font-size: 2em;
+    font-weight: 200;
+    color: #bf4242;
+    font-family: sans-serif;
+}
+img {
+    max-width: 35%;
+    max-height: 200px;
+}
+input, textarea {
+    background-color: gold;
+    display: block;
+    width: 300px;
+    float: center;
+
+}
