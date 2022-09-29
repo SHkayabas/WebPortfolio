@@ -29,6 +29,7 @@ main{
 }
 
 header, footer {
+    max-width: 90%;
     max-height: 90%;
     background-color: #ee90ec;
     padding: 2%;
