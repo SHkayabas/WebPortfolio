@@ -63,7 +63,7 @@ h2 {
     color: #4253bf;
 }
 p{
-    text-align: center;
+    text-align: justify;
     font-size: 1em;
     font-weight: 100%;
     color: #bf4242;
@@ -77,7 +77,6 @@ p{
 
 }
 table, th, td {
-
     background-color: aquamarine;
     text-align: center;
     border: 1px solid black;
@@ -85,7 +84,6 @@ table, th, td {
     margin-right: auto;
 
 }
-
 nav, footer {
     display: flex;
     justify-content: space-around;
