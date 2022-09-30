@@ -12,7 +12,6 @@ section, img {
     margin-left: auto;
     margin-right: auto;
 }
-
 body{
     max-width:
     margin-left: auto;
@@ -28,7 +27,6 @@ main{
     color: #4253bf;
 
 }
-
 header, footer {
     max-width: 90%;
     max-height: 90%;
@@ -90,11 +88,9 @@ nav, footer {
     gap: 2%;
     margin: 2%;
 }
-
-
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 300px) {
     section{
-        display: flex;
+        display:flex;
         flex-direction: column;
     }
 
